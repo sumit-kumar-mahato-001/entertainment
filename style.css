@@ -32,8 +32,8 @@ body {
 
 .top{
     display:flex;
-    padding-left:23px;
-    padding-right:23px;
+    padding-left:10px;
+    padding-right:10px;
     align-items:center;
     font-size:0.52rem;
     justify-content:center;
@@ -52,7 +52,7 @@ body {
     padding:10px;
     align-items:center;
     justify-content:space-evenly;
-    font-size:0.67rem;
+    font-size:0.60rem;
 }
 .top2 i {
     padding-left:80px;
@@ -204,7 +204,10 @@ body {
     background:#7b0000;
     border:none;
     font-size:1rem;
-    margin:20px;
+    margin-top:30px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:15px;
 }
 .btn:hover{
     background:silver;
